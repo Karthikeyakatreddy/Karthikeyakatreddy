@@ -1,103 +1,101 @@
-<!--
-GitHub Profile README for: Karthikeyakatreddy
-Repository name: Karthikeyakatreddy
-File name: README.md
-Theme: Premium dark UI / professional Japanese-animation-inspired visual identity
-Note: GitHub README supports Markdown + limited HTML, not full CSS/JS or real scroll-based 3D animation.
--->
+<!-- ================================================================ -->
+<!--  GitHub Profile README  ·  Sri Sai Karthikeya Katreddy          -->
+<!--  Aesthetic: Clean dark terminal · AI / CS professional identity  -->
+<!-- ================================================================ -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030712,30:0F172A,65:312E81,100:06B6D4&text=SRI%20SAI%20KARTHIKEYA%20KATREDDY&fontColor=F8FAFC&fontSize=36&fontAlignY=42&desc=Computer%20Science%20Engineer%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=62&animation=fadeIn" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Graduate;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+AI+Tools;Building+clean%2C+practical%2C+and+intelligent+solutions;Focused+on+professional+growth+and+real-world+projects)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://img.shields.io/badge/Portfolio%20Style-Premium%20Dark%20UI-0F172A?style=for-the-badge&labelColor=020617&color=06B6D4" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Software-0F172A?style=for-the-badge&labelColor=020617&color=8B5CF6" />
-<img src="https://komarev.com/ghpvc/?username=Karthikeyakatreddy&label=Profile%20Views&color=06b6d4&style=for-the-badge" />
+```
+ ╔═══════════════════════════════════════════════════════════╗
+ ║                                                           ║
+ ║   ░  S R I  S A I  K A R T H I K E Y A  K A T R E D D Y  ║
+ ║                                                           ║
+ ║       B.Tech CSE  ·  AI  ·  Machine Learning  ·  Python   ║
+ ║                                                           ║
+ ╚═══════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3B82F6)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B)
+![AI Tools](https://img.shields.io/badge/AI_Tools-0D1117?style=for-the-badge&logo=openai&logoColor=10B981)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=6EE7B7)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyakatreddy/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srisaikarthikeyakatreddy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthikeyakatreddy)
+![Profile Views](https://komarev.com/ghpvc/?username=Karthikeyakatreddy&style=flat-square&color=3B82F6&label=views)
 
 </div>
 
+<br>
+
 ---
 
-## Professional Snapshot
-
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
-### About
-
-I am **Sri Sai Karthikeya Katreddy**, a **B.Tech Computer Science and Engineering graduate** from **DNR College of Engineering & Technology, JNTUK** with a CGPA of **7.74**.
-
-My focus areas are **Python, Machine Learning, AI tools, cloud computing fundamentals, and software development**. I am interested in building practical, clean, and user-focused digital solutions.
-
-</td>
-<td width="38%" valign="top">
-
-### Profile Details
+## `⟩ whoami`
 
 ```yaml
-Name: Sri Sai Karthikeya Katreddy
-Degree: B.Tech CSE
-College: DNR College of Engineering & Technology
-University: JNTUK
-Academic Years: 2021 - 2025
-CGPA: 7.74
-Location: Andhra Pradesh, India
+# ── Identity ─────────────────────────────────────────────
+name         : "Sri Sai Karthikeya Katreddy"
+alias        : "Karthikeya"
+
+# ── Academic ─────────────────────────────────────────────
+degree       : "B.Tech Computer Science & Engineering"
+institution  : "DNR College of Engineering & Technology (JNTUK)"
+batch        : "2021 – 2025"
+cgpa         : 7.74
+location     : "Andhra Pradesh, India"
+
+# ── Now ──────────────────────────────────────────────────
+status       : "Open to Work  ·  MS Applications (Germany)"
+interests    : ["AI / ML", "Data Science", "Software Development"]
+building     : "Practical, clean, and intelligent solutions"
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-## Technical Focus
+## `⟩ tech_stack`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,django,github,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/AI%20Tools-111827?style=for-the-badge&logo=openai&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=34D399" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-111827?style=for-the-badge&logo=cloudflare&logoColor=FBBF24" />
-<img src="https://img.shields.io/badge/Communication-111827?style=for-the-badge&logo=googlechat&logoColor=FFFFFF" />
-
-</div>
-
----
-
-## Featured Project
-
-<table width="100%">
+<table>
 <tr>
-<td width="64%" valign="top">
+<td valign="top" width="50%">
 
-### Smart Identification of Fake Online Profiles Using Machine Learning
+**`# Languages & Core`**
+```
+Python ·············  ████████████  Primary
+SQL ················  ████████░░░░  Proficient
+JavaScript ·········  ██████░░░░░░  Familiar
+HTML / CSS ·········  ████████░░░░  Proficient
+```
 
-A machine learning project designed to detect **fake online or social media profiles** using profile-based and behavior-based features.
-
-The system studies signals such as profile details, activity patterns, follower-following ratio, posting behavior, and content behavior. It applies **data preprocessing, feature analysis, model training, classification, and Random Forest** to identify whether a profile is genuine or fake.
-
-**Impact:** supports safer online platforms by improving fake profile detection and reducing manual verification effort.
+**`# Frameworks & Tools`**
+```
+Django ·············  REST APIs, Web Dev
+scikit-learn ·······  ML Modeling & Analysis
+TensorFlow (basic) ·  Deep Learning Exposure
+OpenAI / GPT ·······  Prompt Engineering
+```
 
 </td>
-<td width="36%" valign="top">
+<td valign="top" width="50%">
 
-```text
-Domain        : Online Safety
-Category      : Machine Learning
-Algorithm     : Random Forest
-Stack         : Python, Django
-Result Focus  : Classification
-Project Goal  : Fake Profile Detection
+**`# Data & Analytics`**
+```
+Power BI ···········  Dashboards & Reporting
+Excel (Advanced) ···  Analysis & Modeling
+Pandas / NumPy ·····  Data Manipulation
+Matplotlib ·········  Visualization
+```
+
+**`# Dev Environment`**
+```
+VS Code ············  Primary IDE
+GitHub ·············  Version Control
+Jupyter Notebook ···  Research & Prototyping
+Google Colab ·······  Cloud Compute
 ```
 
 </td>
@@ -106,73 +104,132 @@ Project Goal  : Fake Profile Detection
 
 ---
 
-## Credentials & Learning Path
+## `⟩ projects`
 
-| Area | Credential / Experience |
-|---|---|
-| AI | AI & Prompt Engineering Internship |
-| Cloud | Cloud Computing Internship |
-| Python | Python Internship |
-| Python | Python Programming Internship - 2 Months |
-| Machine Learning | Python for Machine Learning |
-| Python Foundation | Python Fundamentals for Beginners |
-| Communication | TCS iON Communication Skills |
-| Gen-AI | Integrative AI in Web & Application Development Workshop |
-| Publication | Published project work on Fake Online Profile Detection |
+<table>
+<tr>
+<td width="48%" valign="top">
+
+### 🛡 Fake Online Profile Detection
+
+> `Python · Django · Random Forest · Classification`
+
+Machine learning system that identifies fake social media profiles by analyzing behavioral signals — follower ratios, activity patterns, posting frequency, and content metadata. Trained using Random Forest classification with feature engineering and data preprocessing.
+
+**Published · Open Source**
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+### 🤖 SmartHire AI
+
+> `Python · AI · Prompt Engineering · OpenAI API`
+
+AI-powered hiring assistant that processes job descriptions and candidate profiles to rank applicants intelligently. Integrates prompt engineering with GPT-based scoring logic for automated shortlisting.
+
+</td>
+</tr>
+<tr><td colspan="3"><br></td></tr>
+<tr>
+<td width="48%" valign="top">
+
+### 📊 Sales Data Analysis & Forecasting
+
+> `Python · Pandas · Matplotlib · Regression`
+
+End-to-end data analysis pipeline — cleaning, transformation, trend analysis, and time-series forecasting on retail sales data. Built interactive visualizations and predictive models.
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+### 🔍 [Your Next Project]
+
+> _Currently in development_
+
+Always exploring new problems at the intersection of data, intelligence, and real-world impact.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Analytics
+## `⟩ experience`
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karthikeyakatreddy&show_icons=true&theme=github_dark&hide_border=true&border_radius=14&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=F472B6" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyakatreddy&theme=dark&hide_border=true&border_radius=14&background=020617&ring=67E8F9&fire=F472B6&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" />
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyakatreddy&layout=compact&theme=github_dark&hide_border=true&border_radius=14&bg_color=020617&title_color=67E8F9&text_color=CBD5E1" />
-
-</div>
-
----
-
-## Current Direction
-
-```text
-01  Strengthen Python and software development fundamentals
-02  Build practical machine learning projects
-03  Improve AI tools and prompt engineering skills
-04  Explore cloud computing and deployment basics
-05  Prepare for entry-level software, AI, ML, and data-related roles
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  AI & Prompt Engineering Intern    ·  Vault of Codes            │
+│  Python Programming Intern         ·  YBI Foundation  [2024]    │
+│  Cloud Computing Intern            ·  [Certificate Holder]      │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Contact
+## `⟩ credentials`
+
+| Domain | Credential |
+|---|---|
+| 🤖 AI / Prompt Engineering | AI & Prompt Engineering – Vault of Codes |
+| 🐍 Python | Python for Machine Learning – Great Learning |
+| 🐍 Python Foundation | Python Fundamentals for Beginners |
+| ☁️ Cloud Computing | Cloud Computing – Internship Certificate |
+| 💬 Communication | TCS iON Communication Skills |
+| 🏢 Industry | Deloitte Forage Virtual Experience |
+| ⚙️ Tech | TCS iON Career Edge – Young Professional |
+| 🔬 Research | Published: Fake Online Profile Detection |
+
+---
+
+## `⟩ github_analytics`
 
 <div align="center">
 
-<a href="mailto:SRISAIKARTHIKEYAKATREDDY@GMAIL.COM">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-020617?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=111827" />
-</a>
-
-<a href="https://www.linkedin.com/in/karthikeyakatreddy/">
-  <img src="https://img.shields.io/badge/LinkedIn-Karthikeya%20Katreddy-020617?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=111827" />
-</a>
-
-<a href="https://github.com/Karthikeyakatreddy">
-  <img src="https://img.shields.io/badge/GitHub-Karthikeyakatreddy-020617?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" />
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Karthikeyakatreddy&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8&icon_color=F59E0B&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyakatreddy&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8&langs_count=6" />
 
 </div>
 
 ---
 
+## `⟩ current_objectives`
+
+```python
+class Karthikeya:
+
+    roadmap = [
+        "01  Master Python for data-intensive applications",
+        "02  Build production-ready ML pipelines",
+        "03  Deepen AI tools and LLM prompt engineering",
+        "04  Contribute to open-source AI / data projects",
+        "05  Pursue MS in AI / Data Science (Germany, 2026)",
+        "06  Land high-impact role in AI, ML, or Data Engineering",
+    ]
+
+    motto = "Learn. Build. Ship. Repeat."
+```
+
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:030712,45:111827,100:06B6D4" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    Let's Connect  ·  Collaborate             ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**Learning. Building. Improving.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyakatreddy/)
+[![Email](https://img.shields.io/badge/Gmail-Write_to_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srisaikarthikeyakatreddy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikeyakatreddy)
+
+<br>
+
+`⟨ Learning · Building · Improving ⟩`
+
+<br>
 
 </div>
