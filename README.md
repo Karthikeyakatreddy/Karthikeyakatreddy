@@ -1,114 +1,162 @@
+<!--
+GitHub Profile README for: Karthikeyakatreddy
+Repository name must be: Karthikeyakatreddy
+File name must be: README.md
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Karthikeya%20Katreddy&fontSize=70&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=PYTHON%20DEVELOPER%20%7C%20DATA%20SCIENCE%20%7C%20AI/ML&descAlignY=60&descSize=20&descColor=ffffff&fontStyle=bold" alt="Header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:58ecff,50:8a78ff,100:ff69da&text=SRI%20SAI%20KARTHIKEYA%20KATREDDY&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20AI%20%7C%20Software%20Development&descAlignY=58&animation=fadeIn" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=58ECFF&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Karthikeya+%F0%9F%91%8B;Computer+Science+Engineering+Graduate;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+AI;Building+smart+and+professional+digital+solutions)](https://git.io/typing-svg)
+
 </div>
 
+---
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+## 🎮 Player Profile
+
+```yaml
+Name: Sri Sai Karthikeya Katreddy
+Role: Computer Science Engineer
+Education: B.Tech in Computer Science & Engineering
+College: DNR College of Engineering & Technology, JNTUK
+Graduation: 2025
+CGPA: 7.74
+Focus: Python, Machine Learning, AI, Software Development
+Status: Open to Software, AI/ML, Data, and Entry-Level Tech Roles
+```
+
+I am a Computer Science and Engineering graduate with interest in **Python, Machine Learning, AI tools, cloud fundamentals, and practical software development**. I enjoy building clean, useful, and user-focused digital solutions.
+
+</td>
+<td width="42%" valign="top">
+
+## 🕹️ Mission Console
+
+```txt
+[ SYSTEM ONLINE ]
+[ PLAYER: KARTHIKEYA ]
+[ CLASS: AI / ML DEVELOPER ]
+[ XP: LEARNING + BUILDING ]
+[ MAIN QUEST: BUILD REAL PROJECTS ]
+```
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33DBFF&center=true&vCenter=true&width=500&lines=Building+Efficient+Algorithms;Transforming+Data+into+Insights;Crafting+AI+Solutions;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Karthikeyakatreddy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" width="100%" />
+
 </div>
 
-<br />
+</td>
+</tr>
+</table>
+
+---
+
+## ⚔️ Tech Stack / Abilities
 
 <div align="center">
-  <table border="0" width="100%" bgcolor="#0d1117">
-    <tr>
-      <td width="55%" valign="top">
-        <h2 align="left" style="color:#00f2ff">👨‍💻 About Me</h2>
-        <p align="left" style="color:#c9d1d9">
-          I am a <b>Computer Science Engineer</b> specializing in <b>Python</b> and <b>Data Science</b>. My passion lies in solving complex problems through algorithms and uncovering patterns in data. I am currently focused on bridging the gap between raw data and actionable insights using Machine Learning.
-        </p>
-        <p align="left" style="color:#c9d1d9">
-          🚀 <b>Current Focus:</b> Mastering Deep Learning architectures.<br>
-          🔭 <b>Looking for:</b> Entry-level roles in Software Development & Data Analytics.<br>
-          ⚡ <b>Fun Fact:</b> I treat debugging like a detective game.
-        </p>
-        <br />
-        <a href="https://www.linkedin.com/in/karthikeyakatreddy">
-          <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td width="45%" valign="center" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KarthikeyaKatreddy&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="Karthikeya's Stats" width="100%"/>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-58ECFF?style=for-the-badge&logo=python&logoColor=07101A" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF69DA?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-8A78FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-78FFCB?style=for-the-badge&logo=django&logoColor=07101A" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-FFD166?style=for-the-badge&logo=cloudflare&logoColor=07101A" />
+<img src="https://img.shields.io/badge/Communication-FFFFFF?style=for-the-badge&logo=googlechat&logoColor=07101A" />
+
+</div>
+
+---
+
+## 🚀 Main Mission / Featured Project
+
+<table>
+<tr>
+<td width="65%">
+
+### 🛡️ Smart Identification of Fake Online Profiles Using Machine Learning
+
+A machine learning project focused on detecting fake online/social media profiles by analyzing profile and behavior-based features such as activity patterns, follower-following ratio, posting behavior, user details, and content behavior.
+
+**Mission Impact:** Helps improve online trust and safety by supporting faster and more reliable fake profile detection.
+
+</td>
+<td width="35%">
+
+```txt
+Mission Type : ML Project
+Core Skill   : Classification
+Algorithm    : Random Forest
+Stack        : Python, Django
+Goal         : Safer Online Platforms
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements / Certifications
+
+| Level | Achievement |
+|---|---|
+| 🤖 AI | AI & Prompt Engineering Internship |
+| ☁️ Cloud | Cloud Computing Internship |
+| 🐍 Python | Python Internship |
+| 🐍 Python | Python Programming Internship |
+| 📊 ML | Python for Machine Learning |
+| 💻 Foundation | Python Fundamentals for Beginners |
+| 🗣️ Soft Skill | TCS iON Communication Skills |
+| 🧠 Gen-AI | Integrative AI in Web & Application Development |
+| 📘 Research | Published Project Work on Fake Online Profile Detection |
+
+---
+
+## 📊 GitHub Activity Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyakatreddy&theme=tokyonight&hide_border=true&border_radius=18" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyakatreddy&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" width="49%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:SRISAIKARTHIKEYAKATREDDY@GMAIL.COM">
+  <img src="https://img.shields.io/badge/Email-SRISAIKARTHIKEYAKATREDDY%40GMAIL.COM-FF69DA?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/karthikeyakatreddy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Karthikeya%20Katreddy-58ECFF?style=for-the-badge&logo=linkedin&logoColor=07101A" />
+</a>
+
+<a href="https://github.com/Karthikeyakatreddy">
+  <img src="https://img.shields.io/badge/GitHub-Karthikeyakatreddy-8A78FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="color:#00f2ff">🛠️ Technical Arsenal</h2>
-</div>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-      <br><span style="color:#c9d1d9">Python</span>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="icon" width="50" height="50" />
-      <br><span style="color:#c9d1d9">NumPy</span>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="icon" width="50" height="50" />
-      <br><span style="color:#c9d1d9">Pandas</span>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="icon" width="50" height="40" />
-      <br><span style="color:#c9d1d9">Scikit-Learn</span>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="50" height="50" />
-      <br><span style="color:#c9d1d9">Git</span>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="icon" width="50" height="50" />
-      <br><span style="color:#c9d1d9">VS Code</span>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69da,50:8a78ff,100:58ecff" width="100%" />
 
-<br/>
+### ⚡ Building. Learning. Improving. One mission at a time.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-1d1e26?style=for-the-badge&logo=codewars&logoColor=00f2ff"/>
-  <img src="https://img.shields.io/badge/Algorithms-1d1e26?style=for-the-badge&logo=acm&logoColor=00f2ff"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-1d1e26?style=for-the-badge&logo=keras&logoColor=00f2ff"/>
-  <img src="https://img.shields.io/badge/Visualization-1d1e26?style=for-the-badge&logo=tableau&logoColor=00f2ff"/>
-</div>
-
----
-
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 style="color:#00f2ff">📂 Featured Projects</h3>
-      <ul style="color:#c9d1d9">
-        <li><b>🧠 Machine Learning:</b> House Price Prediction & Student Performance Analysis.</li>
-        <li><b>📊 Data Analysis:</b> EDA on real-world datasets with Seaborn/Matplotlib.</li>
-        <li><b>⚡ Algorithms:</b> Optimized Python solutions for competitive programming.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3 style="color:#00f2ff">💻 Most Used Languages</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyaKatreddy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=c9d1d9&icon_color=00f2ff" alt="Top Languages" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarthikeyaKatreddy&label=Profile%20Views&color=0e1217&style=flat-square&labelColor=00f2ff" alt="views" />
-  <br />
-  <br />
-  <p style="color:#c9d1d9"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer&width=100%" width="100%"/>
 </div>
